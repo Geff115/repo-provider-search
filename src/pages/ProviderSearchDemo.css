@@ -1,0 +1,47 @@
+.provider-search-demo {
+  padding: 2rem;
+}
+
+.demo-showcase {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.demo-showcase h1 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.component-display, .component-info, .component-code {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.component-display h3, .component-info h3, .component-code h3 {
+  color: #3498db;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
+}
+
+.component-info ul {
+  list-style: none;
+  padding: 0;
+}
+
+.component-info li {
+  margin: 0.5rem 0;
+  padding-left: 1rem;
+  border-left: 3px solid #3498db;
+}
+
+.component-code pre {
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  padding: 1rem;
+  border-radius: 4px;
+  overflow-x: auto;
+}
